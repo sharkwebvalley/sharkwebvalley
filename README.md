@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Analytical Companies
 - 📫 How to reach me sharkwebvalley@outlook.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I Learn/Sleep 24/7
+- ⚡ Fun fact: I Learn 24/7
 
 <!---
 sharkwebvalley/sharkwebvalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
